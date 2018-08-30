@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28993" started-at="2018-08-30T11:08:52Z" finished-at="2018-08-30T11:09:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28993" started-at="2018-08-30T11:08:52Z" finished-at="2018-08-30T11:09:21Z">
+      <class name="ExtentReport.Version3.call">
+        <test-method status="PASS" signature="a()[pri:0, instance:ExtentReport.Version3.call[frame0,0,0,450x450,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="a" is-config="true" duration-ms="97" started-at="2018-08-30T11:08:52Z" finished-at="2018-08-30T11:08:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="main()[pri:0, instance:ExtentReport.Version3.call[frame0,0,0,450x450,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="main" duration-ms="11876" started-at="2018-08-30T11:08:52Z" finished-at="2018-08-30T11:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="main1()[pri:0, instance:ExtentReport.Version3.call[frame0,0,0,450x450,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="main1" duration-ms="8413" started-at="2018-08-30T11:09:04Z" finished-at="2018-08-30T11:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main1 -->
+        <test-method status="PASS" signature="main3()[pri:0, instance:ExtentReport.Version3.call[frame0,0,0,450x450,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="main3" duration-ms="8477" started-at="2018-08-30T11:09:13Z" finished-at="2018-08-30T11:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main3 -->
+        <test-method status="PASS" signature="b()[pri:0, instance:ExtentReport.Version3.call[frame0,0,0,450x450,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="b" is-config="true" duration-ms="26" started-at="2018-08-30T11:09:21Z" finished-at="2018-08-30T11:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="z()[pri:0, instance:ExtentReport.Version3.call[frame0,0,0,450x450,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="z" is-config="true" duration-ms="58" started-at="2018-08-30T11:09:21Z" finished-at="2018-08-30T11:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- z -->
+      </class> <!-- ExtentReport.Version3.call -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
